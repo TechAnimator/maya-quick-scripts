@@ -2,7 +2,7 @@ import pymel.core as pm
 import math
 
 
-# I forget where I found this fuction, but it isn't mine so I can't take credit
+# I forget where I found this function, but it isn't mine so I can't take credit
 
 def find_pole_vector_position(nodes, angle=1, distance=1):
     """Pass three nodes and a vector will be returned. When @angle is equal to 1.0 the pole vector is perpendicular,
